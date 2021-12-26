@@ -24,7 +24,7 @@ const Header = () => {
             <div className='headerItems'>
                 <p>Drops</p>
                 <p>Marketplace</p>
-                <p>Create</p>
+                <p>Create!</p>
             </div>
             <div className='headerActions'>
                 <div className='themeSwitchContainer'>
